@@ -47,3 +47,7 @@ n n n n n n n n n
 Figure 2. Output file format. n is an integer between 1 and 9.
 
 One sample input and sample output is included.
+
+How to run:
+Change the name of the input file in the main from ‘input’ to your desired input name. Run the program.
+The output text file will appear in the same directory, with a name ‘output’.
