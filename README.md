@@ -45,3 +45,5 @@ n n n n n n n n n
 n n n n n n n n n
 n n n n n n n n n
 Figure 2. Output file format. n is an integer between 1 and 9.
+
+One sample input and sample output is included.
